@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Thanh</string>
+    <string name="title_number_comment">Comment</string>
+    <string name="title_actual">Actual</string>
+    <string name="title_estimate">Estimate</string>
+    <string name="title_expect">Expect</string>
+</resources>
